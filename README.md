@@ -3,7 +3,8 @@
 </h3>
 
 <p align="center">
-  👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+  👨‍💻 As a CS student, I'm constantly learning and hard working and exploring new technologies to improve my skills.
+
 </p>
 
 <p align="center">
